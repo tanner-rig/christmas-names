@@ -1,0 +1,41 @@
+.App {
+  color: green;
+  text-align: center;
+  height: 100vh;
+}
+
+.list {
+  padding-top: 50px;
+}
+
+.list-header {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.list-item {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .App {
+    color: white;
+  }
+
+  .list-item {
+    padding: 30px;
+  }
+
+  .list-item > img {
+    padding: 0px;
+  }
+}
+
+.list-item > img {
+  border-radius: 50%;
+}
