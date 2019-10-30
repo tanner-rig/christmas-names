@@ -16,6 +16,8 @@ body {
   /* For mobile phones: */
   body {
     background-image: url("./assets/background-mobile.png");
+    background-size: auto;
+    background-repeat: repeat;
   }
 }
 
