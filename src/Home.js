@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Snowfall from 'react-snowfall'
 
 import "./Home.css";
 
@@ -13,6 +14,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Snowfall />
         <div className="list-header">Christmas Assignments</div>
         <div className="list">
           <div className="list-item">
