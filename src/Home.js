@@ -26,7 +26,7 @@ class App extends Component {
             >
               🎁 →
             </span>
-            <img src={tanner} alt="tanner" height="100" width="100" />
+            <img src={brad} alt="brad" height="100" width="100" />
           </div>
           <div className="list-item">
             <img src={jess} alt="jess" height="100" width="100" />
@@ -37,7 +37,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={colton} alt="colton" height="100" width="100" />
+            <img src={tanner} alt="tanner" height="100" width="100" />
           </div>
           <div className="list-item">
             <img src={brad} alt="brad" height="100" width="100" />
@@ -48,7 +48,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={kylee} alt="kylee" height="100" width="100" />
+            <img src={colton} alt="colton" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -60,7 +60,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={jess} alt="jess" height="100" width="100" />
+            <img src={kylee} alt="kylee" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -72,7 +72,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={dixie} alt="dixie" height="100" width="100" />
+            <img src={jess} alt="jess" height="100" width="100" />
           </div>
 
           <div className="list-item">
@@ -84,7 +84,7 @@ class App extends Component {
             >
               🎁→
             </span>
-            <img src={brad} alt="brad" height="100" width="100" />
+            <img src={dixie} alt="dixie" height="100" width="100" />
           </div>
         </div>
       </div>
